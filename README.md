@@ -33,7 +33,7 @@ BlackJack is a card game that determines the winner and loser with who's closer 
 
 # Getting Started:
 
-[Game Link](https://pages.git.generalassemb.ly/ali1998/My-Blackjack/)
+[Game Link](https://pages.git.generalassemb.ly/ali1998/My-Blackjack)
 
 # Next Steps:
 1. add a betting function
