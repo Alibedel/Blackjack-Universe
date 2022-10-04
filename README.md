@@ -4,13 +4,13 @@ BlackJack is a card game that determines the winner and loser with who's closer 
 
 #ScreenShots of The Game:
 1. wireFrame:
-![image](../project-1/assets/images/wireframe.jpg)
+![image](/assets/images/wireframe.jpg)
 
 2. start page:
 ![image](/assets/images/Startpage.png)
 
 3. after clicking Start
- ![image](../project-1/assets/images/afterclickingstart.png)
+ ![image](/assets/images/afterclickingstart.png)
 
 4. after clicking hit:
 ![image](/assets/images/afterclickinghit.png)
