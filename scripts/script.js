@@ -34,7 +34,7 @@ let standButton = document.getElementById("stand-btn");
 let startBtn = document.getElementById("start-btn");
 let textPlace = document.getElementById('text-place')
 let startGameButton = document.querySelector('#startbtn')
-let hitButton = document.querySelector('#hit-btn')
+let hitButton = document.getElementById('hit-btn')
 let dScoreCount = document.getElementById('dealer-score')
 let pScoreCount = document.getElementById('player-score')
 let game = document.querySelector('#game')
@@ -277,9 +277,6 @@ function newHand(){
     dealerScore = 0;
     hitButton.style.display = 'block';
     standButton.style.display = 'block';
-    handBtn.style.display = 'block';
-    pScoreCount.style.display = 'block'
-    dScoreCount.style.display = 'black'
     render()
 }
 
