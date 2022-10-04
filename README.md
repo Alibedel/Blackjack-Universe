@@ -1,8 +1,8 @@
-#BlackJack Game
+# BlackJack Game
 
-BlackJack is a card game that determines the winner and loser with who's closer to 21 points or gets 21 points. The game is Player versus the Dealer and Winner Takes ALL!.
+BlackJack is a card game that determines the winner and loser with who's closer to 21 points or gets 21 points. The game is Player versus the Dealer and Winner Takes ALL!. ALL DEPENDS ON YOU LUCK!!
 
-#ScreenShots of The Game:
+# ScreenShots of The Game:
 1. wireFrame:
 ![image](/assets/images/wireframe.jpg)
 
@@ -25,7 +25,7 @@ BlackJack is a card game that determines the winner and loser with who's closer 
 ![image](/assets/images/playerwon.png)
 
 
-#Technologies Used:
+# Technologies Used:
 
 1. HTML
 2. CSS
@@ -35,7 +35,7 @@ Getting Started:
 
 [Game Link](https://pages.git.generalassemb.ly/ali1998/My-Blackjack)
 
-#Next Steps:
+# Next Steps:
 1. add a betting function
 2. update my CSS to advance the look of the game 
 3. add more intriguing concepts and varaibles 
