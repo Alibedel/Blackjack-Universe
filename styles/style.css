@@ -1,0 +1,144 @@
+
+
+html{
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    background-color: beige;
+    background: url("../assets/images/table-background.jpeg");
+    height: 100%;
+    background-position: center;
+    background-repeat:repeat;
+    background-size:cover;
+}
+
+body{
+    display: flex;
+    height: 95%;
+    width: 96%;
+    margin: 0 auto;
+}
+
+#blackjack{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.header{
+    flex-direction: column;
+    font-size: 30px;
+
+}
+
+#text-place{
+    color:black;
+    font-weight: bold;
+}
+
+#dealer{
+    justify-items: center;
+    font-size: 25px;
+
+}
+
+#dealer-score{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+#player{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+#player-score{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.play-btn{
+    display: flex;
+    justify-content: right;
+    display: flex;
+    font-size: 30px;
+}
+
+#Hand-btn{
+    font-size: 25px;
+    border: 2px solid black;
+    padding: 15px 10px 10px 10px;
+    color: green;
+    margin-right: 8px;
+
+
+}
+#Hand-btn:hover{
+    color: beige;
+    background-color: green;
+
+}
+
+#hit-btn{
+    font-size: 25px;
+    border: 2px solid black;
+    padding: 15px 10px 10px 10px;
+    color: green;
+    margin-right: 8px;
+
+}
+#hit-btn:hover{
+    color: beige;
+    background-color: green;
+
+}
+
+#stand-btn{
+    font-size: 25px;
+    border: 2px solid black;
+    padding: 15px 10px 10px 10px;
+    color: green;
+    margin-right: 8px;
+
+}
+
+#stand-btn:hover{
+    color: beige;
+    background-color: green;
+
+}
+
+#startbtn{
+    text-align: center;
+    /* display: flex; */
+    font-size: 35px;
+    background-color: black;
+    opacity: 80%;
+    color: beige;
+    border: 2px solid whitesmoke;
+}
+
+#startbtn:hover{
+    color: black;
+    background-color: beige;
+
+}
+
+
+#bet-btn{
+    font-size: 15px;
+    border: 2px solid green;
+    padding: 6px 6px;
+    background-color: azure;
+    font-weight: bold;
+}
+
+#bet-btn:hover{
+    background-color: green;
+    opacity: 70%;
+    color: azure;
+}
+
+
